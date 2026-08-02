@@ -5,7 +5,7 @@
 <br />
 
 <div align="center">
-  <strong>Building LLM agents, web apps, and Chrome extensions.</strong>
+  <strong>Building practical tools for a quieter, smarter web.</strong>
 </div>
 
 ## Selected work
@@ -19,7 +19,7 @@
     </td>
     <td valign="top">
       <h3>📡 Codex Reset Observatory</h3>
-      <p>Track signals and reset information around Codex usage limits.</p>
+      <p>Track Codex reset signals with rule-based and Gemini-assisted classification.</p>
       <p><a href="https://codex-reset-observatory.vercel.app/en">Live</a> · <a href="https://github.com/gussuri/codex-reset-observatory">Repository</a></p>
     </td>
   </tr>
