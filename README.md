@@ -31,7 +31,7 @@
   <code>TypeScript</code> ·
   <code>Next.js</code> ·
   <code>Chrome Extensions</code> ·
-  <code>LLM Agents</code> ·
+  <code>LLM Integration</code> ·
   <code>Observability</code>
 </p>
 
