@@ -5,20 +5,22 @@
 <br />
 
 <div align="center">
-  <strong>Building small tools for a quieter, smarter web.</strong>
+  <strong>Building LLM agents, web apps, and Chrome extensions.</strong>
 </div>
 
 ## Selected work
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🛡️ <a href="https://github.com/gussuri/spoiler-guard-extension">Spoiler Guard for YouTube</a></h3>
+    <td valign="top">
+      <h3>🛡️ Spoiler Guard for YouTube</h3>
       <p>Hide spoilers in YouTube comments and chat replays.</p>
+      <p><a href="https://spoiler-guard.vercel.app/">Live</a> · <a href="https://chromewebstore.google.com/detail/filikhhcifickcnnihlahniajlhbokbl">Install</a> · <a href="https://github.com/gussuri/spoiler-guard-extension/releases/latest">Releases</a> · <a href="https://github.com/gussuri/spoiler-guard-extension">Repository</a></p>
     </td>
-    <td width="50%" valign="top">
-      <h3>📡 <a href="https://github.com/gussuri/codex-reset-observatory">Codex Reset Observatory</a></h3>
-      <p>Observe signals around Codex usage limits and resets.</p>
+    <td valign="top">
+      <h3>📡 Codex Reset Observatory</h3>
+      <p>Track signals and reset information around Codex usage limits.</p>
+      <p><a href="https://codex-reset-observatory.vercel.app/en">Live</a> · <a href="https://github.com/gussuri/codex-reset-observatory">Repository</a></p>
     </td>
   </tr>
 </table>
@@ -29,7 +31,7 @@
   <code>TypeScript</code> ·
   <code>Next.js</code> ·
   <code>Chrome Extensions</code> ·
-  <code>AI tools</code> ·
+  <code>LLM Agents</code> ·
   <code>Observability</code>
 </p>
 
