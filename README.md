@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/gussuri-works-banner.svg" alt="Gussuri Works banner" width="100%" />
+  <img src="./assets/gussuri-works-banner-en.svg" alt="Gussuri Works banner" width="100%" />
 </div>
 
 <br />
