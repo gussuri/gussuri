@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/gussuri-works-banner.svg" alt="Gussuri Works — ぐっすり眠れれば、作れないものはない。" width="100%" />
+  <img src="./assets/gussuri-works-banner.svg" alt="Gussuri Works banner" width="100%" />
 </div>
 
 <br />
@@ -34,9 +34,3 @@
   <code>LLM Integration</code> ·
   <code>Observability</code>
 </p>
-
-<br />
-
-<div align="center">
-  <sub>ぐっすり眠れれば、作れないものはない。</sub>
-</div>
