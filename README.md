@@ -2,17 +2,13 @@
   <img src="./assets/gussuri-works-banner-en.svg" alt="Gussuri Works banner" width="100%" />
 </div>
 
-
 <br />
-
 
 <div align="center">
   <strong>Building practical tools for a quieter, smarter web.</strong>
 </div>
 
-
 ## Selected work
-
 
 <table>
   <tr>
@@ -29,9 +25,7 @@
   </tr>
 </table>
 
-
 ## Currently exploring
-
 
 <p>
   <code>TypeScript</code> ·
@@ -40,6 +34,5 @@
   <code>LLM Integration</code> ·
   <code>Observability</code>
 </p>
-
 
 If you find these projects useful, you can support ongoing development through [GitHub Sponsors](https://github.com/sponsors/gussuri).
