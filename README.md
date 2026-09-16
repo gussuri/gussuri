@@ -4,10 +4,6 @@
 
 <br />
 
-<div align="center">
-  <strong>Building practical tools for a quieter, smarter web.</strong>
-</div>
-
 ## Selected work
 
 <table>
