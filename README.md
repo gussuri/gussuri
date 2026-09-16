@@ -10,12 +10,12 @@
   <tr>
     <td valign="top">
       <h3>🛡️ Spoiler Guard for YouTube</h3>
-      <p>Hide spoilers in YouTube comments and chat replays.</p>
+      <p>A Chrome extension for avoiding spoilers on YouTube.</p>
       <p><a href="https://spoiler.gussuriworks.com/">Live</a> · <a href="https://chromewebstore.google.com/detail/filikhhcifickcnnihlahniajlhbokbl">Install</a> · <a href="https://github.com/gussuri/spoiler-guard-extension/releases/latest">Releases</a> · <a href="https://github.com/gussuri/spoiler-guard-extension">Repository</a></p>
     </td>
     <td valign="top">
       <h3>📡 Codex Reset Observatory</h3>
-      <p>Track Codex reset signals with rule-based and Gemini-assisted classification.</p>
+      <p>Codex reset history and next-reset estimates in one place.</p>
       <p><a href="https://codex.gussuriworks.com/">Live</a> · <a href="https://github.com/gussuri/codex-reset-observatory">Repository</a></p>
     </td>
   </tr>
@@ -30,5 +30,3 @@
   <code>LLM Integration</code> ·
   <code>Observability</code>
 </p>
-
-If you find these projects useful, you can support ongoing development through [GitHub Sponsors](https://github.com/sponsors/gussuri).
