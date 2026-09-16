@@ -11,12 +11,12 @@
     <td valign="top">
       <h3>🛡️ Spoiler Guard for YouTube</h3>
       <p>Hide spoilers in YouTube comments and chat replays.</p>
-      <p><a href="https://spoiler.gussuriworks.com/">Live</a> · <a href="https://chromewebstore.google.com/detail/filikhhcifickcnnihlahniajlhbokbl">Install</a> · <a href="https://github.com/gussuri/spoiler-guard-extension/releases/latest">Releases</a> · <a href="https://github.com/gussuri/spoiler-guard-extension">Repository</a></p>
+      <p><a href="https://spoiler.gussuriworks.com/">Live</a> · <a href="https://chromewebstore.google.com/detail/filikhhcifickcnnihlahniajlhbokbl">Install</a> · <a href="https://github.com/gussuri/spoiler-guard-extension/releases/latest">Releases</a></p>
     </td>
     <td valign="top">
       <h3>📡 Codex Reset Observatory</h3>
       <p>Track Codex reset signals with rule-based and Gemini-assisted classification.</p>
-      <p><a href="https://codex.gussuriworks.com/">Live</a> · <a href="https://github.com/gussuri/codex-reset-observatory">Repository</a></p>
+      <p><a href="https://codex.gussuriworks.com/">Live</a></p>
     </td>
   </tr>
 </table>
